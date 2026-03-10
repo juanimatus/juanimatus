@@ -3,7 +3,7 @@
 <!-- BREVE DESCRIPCION -->
 📚 Currently studying at [Interamerican Open University (UAI)](https://uai.edu.ar/)
 
-🏙 Owner (https://instagram.com/juani.dot)
+🏙 Owner ()(https://instagram.com/juani.dot)
 
 📫 How to reach me **juanigmatus@gmail.com**
 
