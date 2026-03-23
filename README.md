@@ -1,16 +1,33 @@
 <h1 align="center"><b>Hi , I'm Juan Ignacio Matus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- BREVE DESCRIPCION -->
-📚 Currently studying at [Interamerican Open University (UAI)](https://uai.edu.ar/)
+
+## 👋 About me
+
+Soy estudiante de Analista Programador en la [UAI](https://uai.edu.ar/), apasionado por el desarrollo web y la automatización en las organizaciones. Me gusta construir proyectos que resuelvan problemas reales y siempre estoy buscando aprender algo nuevo. 
+
+Actualmente enfocado en mejorar mis habilidades en **Angular** y **Python**, Diseño y Automatización. Estoy en búsqueda activa laboral — abierto a pasantías y oportunidades entry-level. 🚀
 
 📫 How to reach me **juanigmatus@gmail.com**
+
+<!-- ESTADOS DE GITHUB -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanimatus&theme=tokyonight&hide_border=true"/>
+</div>
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juanimatus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://discord.com/users/juanimatus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://instagram.com/juani.dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juanimatus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Ignacio Matus en LinkedIn" height="30" width="40" /></a>
+<a href="https://discord.com/users/juanimatus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juanimatus en Discord" height="30" width="40" /></a>
+<a href="https://instagram.com/juani.dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juani.dot en Instagram" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -30,6 +47,7 @@
 
 <!-- C# Badge -->
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
+</p>
     
 
 ### 🧰 Frameworks and Libraries
