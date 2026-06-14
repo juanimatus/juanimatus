@@ -1,83 +1,156 @@
-<h1 align="center"><b>Hi , I'm Juan Ignacio Matus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+```html
+<h1 align="center">
+  Hi 👋 I'm Juan Ignacio Matus
+</h1>
 
-<!-- BREVE DESCRIPCION -->
+<h3 align="center">
+  Analyst Programmer Student | Automation Developer | Building digital solutions
+</h3>
 
-## 👋 About me
+---
 
-Soy estudiante de Analista Programador en la [UAI](https://uai.edu.ar/), apasionado por el desarrollo web y la automatización en las organizaciones. Me gusta construir proyectos que resuelvan problemas reales y siempre estoy buscando aprender algo nuevo. 
+## 👨‍💻 About me
 
-Actualmente enfocado en mejorar mis habilidades en **Angular** y **Python**, Diseño y Automatización. Estoy en búsqueda activa laboral — abierto a pasantías y oportunidades entry-level. 🚀
+I'm a Computer Programming Analyst student at [UAI](https://uai.edu.ar/) from Argentina.
 
-📫 How to reach me **juanigmatus@gmail.com**
+I'm passionate about software development, automation, AI and building technology that solves real-world problems.
 
-<!-- ESTADOS DE GITHUB -->
+I enjoy designing systems, improving processes and creating digital solutions that help people and organizations work smarter.
+
+Currently focused on improving my skills in:
+
+- ⚡ Web Development
+- 🤖 Automation & AI workflows (Make.com)
+- 📊 Data and APIs
+- 🐍 Python
+- 🅰️ Angular
+
+I'm currently looking for entry-level opportunities, internships and projects where I can contribute, learn and grow. 🚀
+
+---
+
+## 🇦🇷 Sobre mí (Español)
+
+Soy estudiante de Analista Programador en la UAI.
+
+Me interesa crear tecnología útil: automatizaciones, sistemas y herramientas digitales que simplifiquen procesos reales.
+
+Desde Argentina busco oportunidades para crecer profesionalmente y participar en proyectos con impacto.
+
+---
+
+## 📫 Contact
+
+📧 juanigmatus@gmail.com
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
 </div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanimatus&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanimatus&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
+
+---
+
+## 🤝 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/juanimatus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Ignacio Matus en LinkedIn" height="30" width="40" /></a>
-<a href="https://discord.com/users/juanimatus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juanimatus en Discord" height="30" width="40" /></a>
-<a href="https://instagram.com/juani.dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juani.dot en Instagram" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/juanimatus/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+
+<a href="https://instagram.com/juani.dot" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</a>
+
 </p>
 
-## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p>
-    <!-- HTML Badge -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
 
-<!-- CSS Badge -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-    <a href="https://github.com/juanimatus"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/juanimatus"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-<!-- C Badge -->
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white">
 
-<!-- C# Badge -->
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+
 </p>
-    
 
-### 🧰 Frameworks and Libraries
+
+## ⚙️ Frameworks & Libraries
 
 <p>
-    <a href="https://github.com/juanimatus"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/juanimatus"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-</p>
-<a href="https://github.com/juanimatus" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+
+## 🤖 Automation & Data
 
 <p>
-    <a href="https://github.com/juanimatus"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/juanimatus"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/Make-Automation-purple">
+
+<img src="https://img.shields.io/badge/APIs-REST-blue">
+
+<img src="https://img.shields.io/badge/AI-Workflows-black">
+
 </p>
 
-### 🖥️ IDEs
+
+## 🗄️ Databases & Cloud
 
 <p>
-<a href="https://github.com/juanimatus" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://github.com/juanimatus" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?logo=visual-studio&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white">
+
 </p>
 
-### 💻 Software and Tools
+
+## 🧰 Tools
 
 <p>
-    <a href="https://github.com/juanimatus"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/juanimatus"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/juanimatus"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white">
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white">
+
 </p>
-</br>
+```
