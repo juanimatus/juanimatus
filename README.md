@@ -60,7 +60,7 @@ Me interesa crear tecnología útil: automatizaciones, sistemas y herramientas d
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/juani.dot" target="_blank">
+<a href="https://instagram.com/tangoscript" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/>
 </a>
 
