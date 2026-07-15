@@ -43,12 +43,26 @@ Me interesa crear tecnología útil: automatizaciones, sistemas y herramientas d
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="Juan Ignacio Matus GitHub Stats"
+    alt="GitHub Stats"
   />
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=juanimatus&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=juanimatus&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
