@@ -37,26 +37,20 @@ Me interesa crear tecnología útil: automatizaciones, sistemas y herramientas d
 📫 Contact: **juanigmatus@gmail.com**
 
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/juanimatus">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    />
-  </a>
-  <a href="https://github.com/juanimatus">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    />
-  </a>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=juanimatus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Juan Ignacio Matus GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanimatus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 ## 🤝 Connect with me
 
